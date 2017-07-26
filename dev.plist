@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.100.46/jenkins/view/Build/job/Build_Develop_IOS_Step2_IPA/ws/ScambleDebug.ipa</string>
+					<string>http://192.168.100.46/jenkins/view/DevelopBuildIOS/job/Build_Develop_IOS_Step2_FastIPA/lastSuccessfulBuild/artifact/ScrambleFast.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
